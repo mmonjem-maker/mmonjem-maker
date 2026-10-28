@@ -1,4 +1,4 @@
-##Soy estudiante de segundo año de Formación Profesional de Grado Medio de Informática. Actualmente estoy aprendiendo sobre el mundo de la tecnología, los ordenadores, las redes y la programación.
+Soy estudiante de segundo año de Formación Profesional de Grado Medio de Informática. Actualmente estoy aprendiendo sobre el mundo de la tecnología, los ordenadores, las redes y la programación.
 
 Aunque todavía estoy en proceso de formación, tengo muchas ganas de seguir aprendiendo y mejorar mis conocimientos. Mi objetivo es adquirir experiencia, desarrollar nuevas habilidades y prepararme para trabajar en el sector de la informática en el futuro.
 
