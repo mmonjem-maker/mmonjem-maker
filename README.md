@@ -1,4 +1,10 @@
-## Hi there 👋
+##Soy estudiante de segundo año de Formación Profesional de Grado Medio de Informática. Actualmente estoy aprendiendo sobre el mundo de la tecnología, los ordenadores, las redes y la programación.
+
+Aunque todavía estoy en proceso de formación, tengo muchas ganas de seguir aprendiendo y mejorar mis conocimientos. Mi objetivo es adquirir experiencia, desarrollar nuevas habilidades y prepararme para trabajar en el sector de la informática en el futuro.
+
+Sé que todavía me queda mucho por aprender, pero considero que cada práctica, cada trabajo y cada error son oportunidades para mejorar. Quiero seguir creciendo como estudiante y como futuro profesional, superar los retos que se me presenten y encontrar mi propio camino dentro del mundo de la tecnología.
+
+Esta es solo una etapa del camino, y estoy dispuesto a esforzarme para conseguir mis objetivos y construir un buen futuro profesional.
 
 <!--
 **mmonjem-maker/mmonjem-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
